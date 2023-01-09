@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: NW
+    uniqueID: 2780469301
+    locked: 0
+  - name: SW
+    uniqueID: 1560661891
+    locked: 0
+  - name: Buildings
+    uniqueID: 2993621575
+    locked: 0
+  - name: Decoration
+    uniqueID: 503129137
+    locked: 0
+  - name: Doors
+    uniqueID: 1378948987
+    locked: 0
+  - name: Characters
+    uniqueID: 3814530521
+    locked: 0
+  - name: Tuberias
+    uniqueID: 644956927
+    locked: 0
